@@ -1,0 +1,14 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+body{
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color:#FFFDD0;
+}
+
+ul a{
+    text-decoration: none;
+}
